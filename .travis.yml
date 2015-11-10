@@ -7,4 +7,5 @@ haxe:
   - development
 
 script:
+  - haxelib install hxnodejs
   - haxe build.hxml
