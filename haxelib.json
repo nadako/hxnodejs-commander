@@ -1,0 +1,14 @@
+{
+    "name": "hxnodejs-commander",
+    "url": "https://github.com/nadako/hxnodejs-commander",
+    "license": "MIT",
+    "classPath": "src",
+    "tags": ["nodejs", "cli", "console"],
+    "description": "Externs for the commander NPM module",
+    "releasenote": "Initial release",
+    "version": "2.9.0",
+    "contributors": ["nadako"],
+    "dependencies": {
+        "hxnodejs": ""
+    }
+}
